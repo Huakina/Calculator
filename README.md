@@ -1,3 +1,0 @@
-simpleCalculator
-# Calculator
-# Calculator
